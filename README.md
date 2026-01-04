@@ -40,7 +40,7 @@ After 5 years building predictive maintenance systems for aerospace, I'm applyin
 ## 📝 License
 MIT License - see [LICENSE](!License) for details.
 
-## 👤 Author[Mychelle Hale]
+## 👤 Mychelle Hale
 Aerospace Data Scientist → ML Engineer
 [LinkedIn](https://linkedin.com/in/mychelle-hale)
 
