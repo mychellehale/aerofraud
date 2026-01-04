@@ -1,0 +1,20 @@
+usage: detect-secrets [-h] [-v] [--version] [-C <path>] [-c NUM_CORES]
+                      {scan,audit} ...
+
+positional arguments:
+  {scan,audit}
+    scan                Creates a baseline by scanning a repository for
+                        secrets.
+    audit               Manually assesses a baseline to determine validity of
+                        secrets found.
+
+options:
+  -h, --help            show this help message and exit
+  -v, --verbose         Verbose mode.
+  --version             Display version information.
+  -C <path>             Run as if detect-secrets was started in <path>, rather
+                        than in the current working directory.
+  -c NUM_CORES, --cores NUM_CORES
+                        Specify the number of cores to use for parallel
+                        processing. Defaults to using the max cores on the
+                        current host.
