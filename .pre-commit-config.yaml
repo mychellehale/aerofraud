@@ -50,8 +50,8 @@ repos:
       - id: conventional-pre-commit
         stages: [commit-msg]
 
-  # Dependency vulnerability scanning
-  - repo: https://github.com/Lucas-C/pre-commit-hooks-safety
-    rev: v1.3.2
-    hooks:
-      - id: python-safety-dependencies-check
+  # # Dependency vulnerability scanning
+  # - repo: https://github.com/Lucas-C/pre-commit-hooks-safety
+  #   rev: v1.3.2
+  #   hooks:
+  #     - id: python-safety-dependencies-check

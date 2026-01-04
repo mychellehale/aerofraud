@@ -11,8 +11,8 @@ Fixes #
 
 ## Changes
 <!-- Bullet list of main changes -->
-- 
-- 
+-
+-
 
 ---
 
@@ -24,4 +24,3 @@ Fixes #
 
 ## Notes
 <!-- Anything reviewers should know? (optional) -->
-
