@@ -42,6 +42,7 @@ MIT License - see [LICENSE](!License) for details.
 
 ## 👤 Mychelle Hale
 Aerospace Data Scientist → ML Engineer
+
 [LinkedIn](https://linkedin.com/in/mychelle-hale)
 
 ## 🏗️ Development
