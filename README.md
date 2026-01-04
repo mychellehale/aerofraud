@@ -37,6 +37,13 @@ After 5 years building predictive maintenance systems for aerospace, I'm applyin
 - **Deployment:** Docker, Prometheus, Grafana
 - **Dev Tools:** uv, ruff, mypy, pytest
 
+## 📝 License
+MIT License - see [LICENSE](!License) for details.
+
+## 👤 Author[Mychelle Hale]
+Aerospace Data Scientist → ML Engineer
+[LinkedIn](https://linkedin.com/in/mychelle-hale)
+
 ## 🏗️ Development
 
 ```bash
@@ -52,8 +59,3 @@ make type-check
 
 # Or all at once
 make all
-
-## 📝 License
-MIT License - see [LICENSE](!License) for details.👤 Author[Mychelle Hale]
-Aerospace Data Scientist → ML Engineer
-[LinkedIn](https://linkedin.com/in/mychelle-hale)
