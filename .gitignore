@@ -38,6 +38,7 @@ env/
 .coverage
 htmlcov/
 .tox/
+docs/interviewprep
 
 # Type checking
 .mypy_cache/
